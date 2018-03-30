@@ -250,6 +250,7 @@
          display: block;
 				 text-align: center;
 				 margin: 30% auto;
+				 overflow: hidden;
     }
 		.container{
 			display:none;
