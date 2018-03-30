@@ -232,6 +232,7 @@
 @media screen and (max-width: 61.75em){
 	.bb-custom-side p{
 		font-size: 75%;
+		padding-top: 1%;
 	}
 	.bb-custom-wrapper {
 	    height: 80%;
