@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="750px" height="480px" viewBox="0 0 750 480" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Desktop Copy 56</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Desktop-Copy-56" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(280.000000, 129.000000)" stroke-linecap="round" stroke-width="2.73522976">
+            <path d="M110.202548,2.50111043e-12 L80.9395139,78.1535649" id="Path-32-Copy-9" stroke="#FF9373"></path>
+            <path d="M200.835158,149.725777 L115.644175,68.9670932" id="Path-32-Copy-4" stroke="#FF9373" transform="translate(158.253716, 109.353198) scale(-1, 1) translate(-158.253716, -109.353198) "></path>
+            <path d="M104.362153,149.388245 L19.1711699,68.6295613" id="Path-32-Copy-5" stroke="#FF9373"></path>
+            <path d="M104.732822,149.725777 L80.9395139,78.1535649" id="Path-32-Copy-2" stroke="#FF9373"></path>
+            <path d="M139.465582,2.38742359e-12 L110.202548,78.1535649" id="Path-32-Copy-10" stroke="#FF9373" transform="translate(124.834065, 39.076782) scale(-1, 1) translate(-124.834065, -39.076782) "></path>
+            <path d="M139.465582,149.725777 L115.672274,78.1535649" id="Path-32-Copy-6" stroke="#FF9373" transform="translate(127.568928, 113.939671) scale(-1, 1) translate(-127.568928, -113.939671) "></path>
+            <path d="M0.148440448,100.604984 L18.4459948,69.6743275" id="Path-32-Copy" stroke="#FF9373"></path>
+            <g id="Group-2" transform="translate(0.000000, 68.978102)" stroke="#23C5E8">
+                <path d="M0.148440448,31.6268822 L32.9201796,8.08673626" id="Path-32"></path>
+                <path d="M200.901486,55.7933786 L110.377521,0.126102563" id="Path-32-Copy-8" transform="translate(155.552017, 27.959741) scale(-1, 1) translate(-155.552017, -27.959741) "></path>
+                <path d="M110.153291,55.6672761 L32.9201796,8.08673626" id="Path-32-Copy-11"></path>
+            </g>
+        </g>
+        <text id="KIMCHAN" font-family="QuicksandBook-Regular, Quicksand" font-size="54.7045952" font-weight="300" line-spacing="55.5251641" letter-spacing="21.8818378">
+            <tspan x="201" y="340" fill="#FF9373">K</tspan>
+            <tspan x="261.995623" y="340" font-size="49.2341357" fill="#FF9373">IM</tspan>
+            <tspan x="362.329321" y="340" fill="#23C5E8">C</tspan>
+            <tspan x="426.388402" y="340" font-size="49.2341357" fill="#23C5E8">HAN</tspan>
+        </text>
+    </g>
+</svg>

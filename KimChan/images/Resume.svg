@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #23C5E8;">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 17 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Artboard-17-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(11.000000, 10.000000)">
+            <path d="M18,1.2 L18,18.8 C18,19.4627417 17.4627417,20 16.8,20 L1.2,20 C0.5372583,20 -8.0701597e-16,19.4627417 -8.8817842e-16,18.8 L2.35106052e-16,5 L5.29411765,0 L16.8,0 C17.4627417,-1.8876423e-15 18,0.5372583 18,1.2 Z" id="Rectangle-28" fill="#FFFFFF"></path>
+            <path d="M8,4 L15,4" id="Path-282" stroke="#23C5E8" fill="#23C5E8"></path>
+            <path d="M3,8 L15,8" id="Path-282-Copy" stroke="#23C5E8" fill="#23C5E8"></path>
+            <path d="M3,12 L15,12" id="Path-282-Copy-3" stroke="#23C5E8" fill="#23C5E8"></path>
+            <path d="M3,16 L15,16" id="Path-282-Copy-5" stroke="#23C5E8" fill="#23C5E8"></path>
+            <path d="M0,5 L3.8,5 C4.4627417,5 5,4.4627417 5,3.8 L5,0" id="Path-271" stroke="#23C5E8"></path>
+        </g>
+    </g>
+</svg>
