@@ -237,6 +237,9 @@
 	.bb-custom-wrapper {
 	    height: 80%;
 	}
+	.bb-custom-wrapper > nav a {
+		margin: 2px 6px 2px 6px;
+	}
 }
 
 @media screen and (max-width: 33em){
